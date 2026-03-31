@@ -8,7 +8,7 @@
 
 ### CAREERCOMPASS2App.swift
 - **Entry point της εφαρμογής.**
-- Εκκινεί την εφαρμογή και ορίζει το αρχικό view (συνήθως το `ContentView`).
+- Εκκινεί την εφαρμογή και ορίζει το αρχικό view.
 
 ### ContentView.swift
 - **Κύριο container και root navigation της εφαρμογής.**
